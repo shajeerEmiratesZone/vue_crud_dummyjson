@@ -16,7 +16,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 npm install
 ```
 
-## Make a cop of .env.example and rename to .env
+## Make a copy of .env.example and rename to .env
 
 ```sh
 cp .env.example .env
