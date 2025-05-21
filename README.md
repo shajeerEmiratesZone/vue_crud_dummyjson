@@ -1,6 +1,6 @@
-# VueJS 3 CRUD with Auth using [DummyJSON](https://dummyjson.com) as Backend
+# Vue 3 CRUD with Auth using [DummyJSON](https://dummyjson.com) as Backend
 
-This is a sample project made using VueJS 3 and DummyJSON that has Users CRUD (Create, Read, Update and Delete) Operations with Auth (Login).
+This is a sample project made using Vue 3 and DummyJSON that has Users CRUD (Create, Read, Update and Delete) Operations with Auth (Login).
 
 ## Recommended IDE Setup
 
